@@ -1,7 +1,0 @@
-com\daweii\dawfaction\Main.class
-com\daweii\dawfaction\Commands\Staff\Vanish.class
-com\daweii\dawfaction\Home\Commands\SetHome.class
-com\daweii\dawfaction\Listener\DawListener.class
-com\daweii\dawfaction\Listener\Region.class
-com\daweii\dawfaction\Listener\Fleur.class
-com\daweii\dawfaction\Home\Commands\Home.class
