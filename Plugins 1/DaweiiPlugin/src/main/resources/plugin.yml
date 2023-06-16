@@ -1,0 +1,16 @@
+name: DaweiiPlugin
+version: '${project.version}'
+main: com.daweii.daweiiplugin.Main
+api-version: 1.15
+authors: [ Daweii ]
+commands:
+  hub:
+    description: Commands for tp hub
+  lobby:
+    description: Commands for tp lobby
+  food:
+    description: Plus de nouriture
+  gm:
+    description: Changement de GameMode
+  vanish:
+    description: rendre invisible un joueur (staff)
